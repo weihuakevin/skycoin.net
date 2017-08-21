@@ -43,7 +43,7 @@ $ yarn test -- --coverage
 
 ## Releasing to production
 
-Commits on the master branch will be automatically released to [staging](staging.skycoin.net).
+Commits on the master branch will be automatically released to https://staging.skycoin.net.
 
 To release to production:
 
