@@ -17,7 +17,7 @@ export default {
     },
     {
       component: 'CXO',
-      replaces: 'IPFS, Bittorrent, Mega, Dropbox, Google Drive',
+      replaces: 'IPFS, FileCoin, Bittorrent, Mega, Dropbox, Google Drive',
       repo: 'https://github.com/skycoin/cxo',
     },
     {
