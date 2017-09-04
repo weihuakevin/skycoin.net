@@ -5,6 +5,7 @@ import { injectIntl } from 'react-intl';
 
 import GetStarted from 'components/GetStarted';
 import { eventInProgress } from 'components/Distribution/eventStatus';
+import Blog from 'components/Blog';
 import Footer from 'components/Footer';
 import Hero from './components/Hero';
 import DistributionEvent from './components/DistributionEvent';
@@ -26,6 +27,7 @@ const Home = ({ intl }) => (
     </Helmet>
 
     <Hero />
+    <Blog />
     {eventInProgress && <DistributionEvent />}
     <About />
     <Network />
