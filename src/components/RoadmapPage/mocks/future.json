@@ -1,31 +1,47 @@
 {
     "data": [
         {
-            "year": 2017,
+            "year": 2018,
             "quarter": 1,
-            "weight": 1,
-            "status": "slated",
-            "title": "2k17 title",
-            "body": "some text",
-            "tags": ["minor"]
+            "weight": 2,
+            "title": "Skywire Miner Release"
         },
         {
             "year": 2017,
-            "quarter": 2,
-            "weight": 1,
-            "status": "slated",
-            "title": "2k17 title",
-            "body": "some text",
-            "tags": ["minor"]
+            "quarter": 4,
+            "weight": 5,
+            "body": "Launch Skywire test network"
         },
         {
-            "year": 2016,
-            "quarter": 1,
+            "year": 2017,
+            "quarter": 4,
+            "weight": 4,
+            "body": "List Skycoin on more exchanges"
+        },
+        {
+            "year": 2017,
+            "quarter": 4,
+            "weight": 3,
+            "body": "Add wallet encryption features"
+        },
+        {
+            "year": 2017,
+            "quarter": 4,
+            "weight": 3,
+            "title": "New Wallet",
+            "body": "Redesigned Skycoin wallet"
+        },
+        {
+            "year": 2017,
+            "quarter": 4,
+            "weight": 2,
+            "body": "Extend Skycoin divisibility to one decimal place"
+        },
+        {
+            "year": 2017,
+            "quarter": 4,
             "weight": 1,
-            "status": "slated",
-            "title": "Short title of the milestone",
-            "body": "Amet porro natus deleniti dolorum odit accusamus. Esse quasi voluptas incidunt officia exercitationem, dolore! Odio incidunt dignissimos soluta architecto totam explicabo. Inventore corporis optio deserunt sequi aperiam nisi obcaecati officia.",
-            "tags": ["major-milestone"]
+            "body": "Skycoin website revision to include more content and better branding"
         }
     ]
 }

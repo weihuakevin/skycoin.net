@@ -2,101 +2,238 @@
     "data": [
         {
             "year": 2017,
-            "quarter": 1,
+            "quarter": 3,
+            "weight": 6,
+            "title": "skyledger.net",
+            "body": "Skycoin's token platform \"Skyledger\" launched"
+        },
+        {
+            "year": 2017,
+            "quarter": 3,
+            "weight": 5,
+            "title": "cx.skycoin.net",
+            "body": "CX programming language sandbox published"
+        },
+        {
+            "year": 2017,
+            "quarter": 3,
+            "weight": 4,
+            "title": "BBS and CXO Software Released"
+        },
+        {
+            "year": 2017,
+            "quarter": 3,
+            "weight": 3,
+            "title": "Skywire Miner",
+            "body": "Skywire hardware miner prototype built"
+        },
+        {
+            "year": 2017,
+            "quarter": 3,
+            "weight": 2,
+            "body": "First marketing and communication people hired"
+        },
+        {
+            "year": 2017,
+            "quarter": 3,
             "weight": 1,
-            "status": "slated",
-            "title": "2k17 title",
-            "body": "some text",
-            "tags": ["minor"]
+            "body": "skycoin.net updated"
+        },
+        {
+            "year": 2017,
+            "quarter": 2,
+            "weight": 3,
+            "title": "First Skycoin public exchange listing"
+        },
+        {
+            "year": 2017,
+            "quarter": 2,
+            "weight": 2,
+            "title": "BBS",
+            "body": "Development of distributed, peer-to-peer social media application (BBS) begins on top of CXO immutable object system"
         },
         {
             "year": 2017,
             "quarter": 2,
             "weight": 1,
-            "status": "slated",
-            "title": "2k17 title",
-            "body": "some text",
-            "tags": ["minor"]
+            "title": "CXO",
+            "body": "CXO (6th revision of Ether/Aether) ready for implementation"
+        },
+        {
+            "year": 2017,
+            "quarter": 1,
+            "weight": 2,
+            "title": "ICO",
+            "body": "Skycoin ICO is held"
+        },
+        {
+            "year": 2017,
+            "quarter": 1,
+            "weight": 1,
+            "title": "Skywire",
+            "body": "Skywire alpha implemented with a VPN and socks5 proxy demo"
+        },
+        {
+            "year": 2016,
+            "quarter": 4,
+            "weight": 2,
+            "body": "Development of Skywire node deployment and orchestration software begins"
+        },
+        {
+            "year": 2016,
+            "quarter": 3,
+            "weight": 2,
+            "body": "skycoin.net website launched"
+        },
+        {
+            "year": 2016,
+            "quarter": 3,
+            "weight": 1,
+            "body": "Skycoin-Exchange and mobile thin client API development begins"
+        },
+        {
+            "year": 2016,
+            "quarter": 2,
+            "weight": 1,
+            "title": "Blockchain Explorer",
+            "body": "Skycoin Blockchain Explorer launched"
         },
         {
             "year": 2016,
             "quarter": 1,
             "weight": 1,
-            "status": "completed",
-            "title": "Short title of the milestone",
-            "body": "Amet porro natus deleniti dolorum odit accusamus. Esse quasi voluptas incidunt officia exercitationem, dolore! Odio incidunt dignissimos soluta architecto totam explicabo. Inventore corporis optio deserunt sequi aperiam nisi obcaecati officia.",
-            "tags": ["major-milestone"]
+            "title": "CXO",
+            "body": "Ether+IPFS becomes Merkle-DAG immutable object system, CXO"
+        },
+        {
+            "year": 2015,
+            "quarter": 4,
+            "weight": 1,
+            "title": "Post-Blockchain Research",
+            "body": "Research into Post-blockchain (consensus over total ordering of transactions) to DAG-based UX/TX graph (consensus over equivalence classes of the partial ordering of the directed acyclic bipartite UX/TX graph) begins"
         },
         {
             "year": 2015,
             "quarter": 3,
             "weight": 2,
-            "status": "in-progress",
-            "title": "Some title",
-            "body": "the short body text",
-            "tags": ["wallet", "develop"]
+            "title": "Skywire Research",
+            "body": "Skywire reearch focuses on protection against network level attacks"
         },
         {
             "year": 2015,
             "quarter": 3,
-            "weight": 2,
-            "status": "in-progress",
-            "title": "Some title",
-            "body": "the short body text",
-            "tags": ["wallet", "develop"]
+            "weight": 1,
+            "title": "CX Research",
+            "body": "Research into CX programming language begins"
         },
         {
             "year": 2015,
-            "quarter": 3,
-            "weight": 2,
-            "status": "in-progress",
-            "title": "Some title",
-            "body": "the short body text",
-            "tags": ["wallet", "develop"]
-        },
-        {
-            "year": 2015,
-            "quarter": 3,
-            "weight": 2,
-            "status": "in-progress",
-            "title": "Some title",
-            "body": "the short body text",
-            "tags": ["wallet", "develop"]
-        },
-        {
-            "year": 2015,
-            "quarter": 3,
-            "weight": 2,
-            "status": "in-progress",
-            "title": "Some title",
-            "body": "the short body text",
-            "tags": ["wallet", "develop"]
-        },
-        {
-            "year": 2016,
             "quarter": 2,
-            "weight": 3,
-            "title": "new",
-            "status": "completed",
-            "body": "body text",
-            "tags": ["wallet"]
+            "weight": 1,
+            "title": "Testnet ends",
+            "body": "Skycoin testnet ends, blockchain goes into production"
         },
         {
-            "year": 2016,
+            "year": 2015,
             "quarter": 2,
-            "weight": 3,
-            "status": "completed",
-            "body": "body text",
-            "tags": ["wallet"]
+            "weight": 1,
+            "title": "ACM Published Research",
+            "body": "First academic ACM journal publications about Skycoin's new network consensus algorithm"
         },
         {
-            "year": 2016,
+            "year": 2015,
+            "quarter": 1,
+            "weight": 3,
+            "title": "Obelisk",
+            "body": "Development of new Cryptopgraphic primitive \"public broadcast channel\" as found of Skycoin Network Consensus algorithm Obelisk"
+        },
+        {
+            "year": 2015,
             "quarter": 1,
             "weight": 2,
-            "status": "completed",
-            "title": "Uncompleted",
-            "body": "description of the task",
-            "tags": ["wallet", "design"]
+            "title": "Pre-ICO",
+            "body": "Skycoin Pre-ICO begins"
+        },
+        {
+            "year": 2015,
+            "quarter": 1,
+            "weight": 1,
+            "title": "Desktop Wallet",
+            "body": "Development of Skycoin desktop wallet frontend begins"
+        },
+        {
+            "year": 2014,
+            "quarter": 4,
+            "weight": 1,
+            "title": "CoinJoin",
+            "body": "Skycoin transactions redesigned to support CoinJoin natively, with no distinguishing features between CoinJoin and non-CoinJoin transactions"
+        },
+        {
+            "year": 2014,
+            "quarter": 3,
+            "weight": 2,
+            "body": "Skycoin secp256k1 hash and deterministic wallet generation algorithm formalized"
+        },
+        {
+            "year": 2014,
+            "quarter": 3,
+            "weight": 1,
+            "title": "Skycoin eliminates signature malleability, transaction malleability and duplicate coinbase problems of Bitcoin"
+        },
+        {
+            "year": 2014,
+            "quarter": 2,
+            "weight": 2,
+            "title": "Skycoin concept of directed bipartite UXTX graph developed to replace Bitcoin UTXO"
+        },
+        {
+            "year": 2014,
+            "quarter": 2,
+            "weight": 1,
+            "title": "First version of the Skycoin blockchain and testnet launched"
+        },
+        {
+            "year": 2014,
+            "quarter": 1,
+            "weight": 2,
+            "title": "Peer-to-peer replicated, key-value store research begins (ether, precursor to aether and CXO)"
+        },
+        {
+            "year": 2014,
+            "quarter": 1,
+            "weight": 1,
+            "body": "Cryptopgraphic library tested and standardized across project"
+        },
+        {
+            "year": 2013,
+            "quarter": 4,
+            "weight": 1,
+            "title": "ANN posted on bitcointalks"
+        },
+        {
+            "year": 2013,
+            "quarter": 3,
+            "weight": 1,
+            "title": "Coin Hours",
+            "body": "Skycoin develops and implements Coin Hour concept to eliminate transaction fees to miners, while rationing network resources."
+        },
+        {
+            "year": 2013,
+            "quarter": 2,
+            "weight": 1,
+            "body": "Skycoin codebase switched from C to Go"
+        },
+        {
+            "year": 2013,
+            "quarter": 1,
+            "weight": 1,
+            "title": "Skycoin software development begins"
+        },
+        {
+            "year": 2012,
+            "quarter": 4,
+            "weight": 1,
+            "title": "Research begins on a replacement for PoW consensus"
         }
     ]
 }
