@@ -191,4 +191,7 @@ export default {
       seconds: 'Seconds',
     },
   },
+  roadmapPage: {
+    heading: 'Development roadmap',
+  },
 };
