@@ -9,20 +9,26 @@
         {
             "year": 2017,
             "quarter": 4,
-            "weight": 5,
+            "weight": 7,
             "body": "Launch Skywire test network"
         },
         {
             "year": 2017,
             "quarter": 4,
-            "weight": 4,
+            "weight": 6,
             "body": "List Skycoin on more exchanges"
         },
         {
             "year": 2017,
             "quarter": 4,
-            "weight": 3,
-            "body": "Add wallet encryption features"
+            "weight": 5,
+            "body": "Wallet encryption"
+        },
+        {
+            "year": 2017,
+            "quarter": 4,
+            "weight": 4,
+            "title": "Android Wallet"
         },
         {
             "year": 2017,
@@ -41,7 +47,7 @@
             "year": 2017,
             "quarter": 4,
             "weight": 1,
-            "body": "Skycoin website revision to include more content and better branding"
+            "body": "Skycoin design improvements"
         }
     ]
 }
