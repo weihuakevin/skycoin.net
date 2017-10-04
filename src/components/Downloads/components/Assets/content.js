@@ -1,26 +1,16 @@
 export default [{
-  name: 'Skycoin branding guide',
-  download: 'https://downloads.skycoin.net/branding/Skycoin+Branding+Guide.pdf',
+  name: 'Skycoin Brand Guidelines [pdf]',
+  download: 'https://downloads.skycoin.net/branding/Skycoin-Brand_Guidelines-v1.pdf',
   filetype: '.pdf',
-  filesize: '66kb',
+  filesize: '827kb',
 }, {
-  name: 'Skycoin icon',
-  download: 'https://downloads.skycoin.net/branding/Skycoin+Icon.png',
-  filetype: '.png',
-  filesize: '96kb',
+  name: 'Skycoin Brand Guidelines [sketch]',
+  download: 'https://downloads.skycoin.net/branding/Skycoin-Brand_Guidelines-v1.sketch',
+  filetype: '.sketch',
+  filesize: '1.2mb',
 }, {
-  name: 'Skycoin logo',
-  download: 'https://downloads.skycoin.net/branding/Skycoin+Logo+Base.png',
-  filetype: '.png',
-  filesize: '45kb',
-}, {
-  name: 'Skycoin logo black',
-  download: 'https://downloads.skycoin.net/branding/Skycoin+Logo+Black.png',
-  filetype: '.png',
-  filesize: '24kb',
-}, {
-  name: 'Skycoin logo white',
-  download: 'https://downloads.skycoin.net/branding/Skycoin+Logo+White.png',
-  filetype: '.png',
-  filesize: '20kb',
+  name: 'Skycoin Logo PNGs',
+  download: 'https://downloads.skycoin.net/branding/Skycoin-Logo-PNGs.zip',
+  filetype: '.zip',
+  filesize: '6mb',
 }];
