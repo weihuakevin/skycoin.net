@@ -33,7 +33,7 @@ export default {
     team: 'Команда',
     subscribe: 'Рассылка',
     market: 'Markets',
-    bitcoinTalks: 'Bitcointalks ANN',
+    bitcoinTalk: 'Bitcointalk ANN',
     instagram: 'Instagram',
     facebook: 'Facebook',
     discord: 'Discord',
