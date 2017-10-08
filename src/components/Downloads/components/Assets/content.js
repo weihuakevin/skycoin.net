@@ -1,11 +1,11 @@
 export default [{
   name: 'Skycoin Brand Guidelines [pdf]',
-  download: 'https://downloads.skycoin.net/branding/Skycoin-Brand_Guidelines-v1.pdf',
+  download: 'https://downloads.skycoin.net/branding/Skycoin-Brand_Guidelines-v1.1.pdf',
   filetype: '.pdf',
   filesize: '827kb',
 }, {
   name: 'Skycoin Brand Guidelines [sketch]',
-  download: 'https://downloads.skycoin.net/branding/Skycoin-Brand_Guidelines-v1.sketch',
+  download: 'https://downloads.skycoin.net/branding/Skycoin-Brand_Guidelines-v1.1.sketch',
   filetype: '.sketch',
   filesize: '1.2mb',
 }, {
