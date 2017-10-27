@@ -9,6 +9,18 @@
         {
             "year": 2017,
             "quarter": 4,
+            "weight": 9,
+            "body": "List Skycoin on more exchanges"
+        },
+        {
+            "year": 2017,
+            "quarter": 4,
+            "weight": 8,
+            "body": "Implement exchange federation protocol for decentralized exchange (DEX) integration"
+        },
+        {
+            "year": 2017,
+            "quarter": 4,
             "weight": 7,
             "body": "Launch Skywire test network"
         },
@@ -16,7 +28,7 @@
             "year": 2017,
             "quarter": 4,
             "weight": 6,
-            "body": "List Skycoin on more exchanges"
+            "body": "Open Skycoin OTC market"
         },
         {
             "year": 2017,
