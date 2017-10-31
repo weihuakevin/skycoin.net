@@ -37,5 +37,11 @@ export default () => (
         <Language><StyledLink to="/ru/">Ру́сский</StyledLink></Language>
       )}
     />
+    <Flag
+      name="korean"
+      render={() => (
+        <Language><StyledLink to="/kr/">한국어</StyledLink></Language>
+      )}
+    />
   </Languages>
 );
