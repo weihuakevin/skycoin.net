@@ -31,6 +31,7 @@ export const BOX_SHADOWS = {
 export const FLAGS = {
   chinese: true,
   russian: true,
+  korean: true,
   timeline: false,
   distribution: true,
   network: false,
