@@ -9,13 +9,14 @@ import { FlagsProvider } from 'flag';
 import { IntlProvider, addLocaleData } from 'react-intl';
 import zh from 'react-intl/locale-data/zh';
 import ru from 'react-intl/locale-data/ru';
+import ko from 'react-intl/locale-data/ko';
 
 import { COLORS, BREAKPOINTS, SPACE, FONT_SIZES, FLAGS } from 'config';
 import * as locales from 'locales';
 import Routes from '../Routes';
 import ScrollToTop from '../ScrollToTop';
 
-addLocaleData([...zh, ...ru]);
+addLocaleData([...zh, ...ru, ...ko]);
 
 const theme = {
   colors: flatten(COLORS),
@@ -59,6 +60,7 @@ export default () => (
         <Switch>
           <Route path="/cn" render={props => <Root {...props} locale="zh" />} />
           <Route path="/ru" render={props => <Root {...props} locale="ru" />} />
+          <Route path="/kr" render={props => <Root {...props} locale="ko" />} />
           <Route path="/" render={props => <Root {...props} locale="en" />} />
         </Switch>
       </ScrollToTop>
