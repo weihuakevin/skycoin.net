@@ -40,7 +40,7 @@ export default () => (
     <Flag
       name="korean"
       render={() => (
-        <Language><StyledLink to="/kr/">한국어</StyledLink></Language>
+        <Language><StyledLink to="/ko/">한국어</StyledLink></Language>
       )}
     />
   </Languages>
