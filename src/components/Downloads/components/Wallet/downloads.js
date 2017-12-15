@@ -1,4 +1,4 @@
-export const version = 'v0.20.3';
+export const version = 'v0.21.1';
 export const downloads = [{
   platform: 'downloads.wallet.macos',
   icon: 'macos',
@@ -6,8 +6,7 @@ export const downloads = [{
     name: 'downloads.wallet.withElectron',
     architectures: [{
       name: '',
-      download: 'https://downloads.skycoin.net/wallet/Skycoin-0.20.3.dmg',
-      torrent: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3.torrent',
+      download: 'https://downloads.skycoin.net/wallet/skycoin-0.21.1-gui-osx.dmg',
       filetype: '.dmg',
       filesize: '51mb',
     }],
@@ -15,8 +14,7 @@ export const downloads = [{
     name: 'downloads.wallet.withoutElectron',
     architectures: [{
       name: '',
-      download: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3-bin-osx-darwin-x64.zip',
-      torrent: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3.torrent',
+      download: 'https://downloads.skycoin.net/wallet/skycoin-0.21.1-bin-osx-darwin-x64.zip',
       filetype: '.zip',
       filesize: '14mb',
     }],
@@ -28,8 +26,7 @@ export const downloads = [{
     name: 'downloads.wallet.withElectron',
     architectures: [{
       name: '64bit',
-      download: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3-gui-win-setup.exe',
-      torrent: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3.torrent',
+      download: 'https://downloads.skycoin.net/wallet/skycoin-0.21.1-gui-win-setup.exe',
       filetype: '.exe',
       filesize: '68mb',
     }],
@@ -37,14 +34,12 @@ export const downloads = [{
     name: 'downloads.wallet.withoutElectron',
     architectures: [{
       name: '32bit',
-      download: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3-bin-win-x86.zip',
-      torrent: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3.torrent',
+      download: 'https://downloads.skycoin.net/wallet/skycoin-0.21.1-bin-win-x86.zip',
       filetype: '.zip',
       filesize: '14mb',
     }, {
       name: '64bit',
-      download: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3-bin-win-x64.zip',
-      torrent: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3.torrent',
+      download: 'https://downloads.skycoin.net/wallet/skycoin-0.21.1-bin-win-x64.zip',
       filetype: '.zip',
       filesize: '14mb',
     }],
@@ -56,8 +51,7 @@ export const downloads = [{
     name: 'downloads.wallet.withElectron',
     architectures: [{
       name: '64bit',
-      download: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3-gui-linux-x64.AppImage',
-      torrent: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3.torrent',
+      download: 'https://downloads.skycoin.net/wallet/skycoin-0.21.1-gui-linux-x64.AppImage',
       filetype: '.AppImage',
       filesize: '56mb',
     }],
@@ -65,14 +59,12 @@ export const downloads = [{
     name: 'downloads.wallet.withoutElectron',
     architectures: [{
       name: 'arm',
-      download: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3-bin-linux-arm.tar.gz',
-      torrent: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3.torrent',
+      download: 'https://downloads.skycoin.net/wallet/skycoin-0.21.1-bin-linux-arm.tar.gz',
       filetype: '.tar.gz',
       filesize: '14mb',
     }, {
       name: '64bit',
-      download: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3-bin-linux-x64.tar.gz',
-      torrent: 'https://downloads.skycoin.net/wallet/skycoin-0.20.3.torrent',
+      download: 'https://downloads.skycoin.net/wallet/skycoin-0.21.1-bin-linux-x64.tar.gz',
       filetype: '.tar.gz',
       filesize: '14mb',
     }],
