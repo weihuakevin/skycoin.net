@@ -7,10 +7,10 @@
             "title": "Skywire Miner Release"
         },
         {
-            "year": 2017,
-            "quarter": 4,
+            "year": 2018,
+            "quarter": 1,
             "weight": 9,
-            "body": "List Skycoin on more exchanges"
+            "body": "List Skycoin on next.exchange"
         },
         {
             "year": 2017,
@@ -23,12 +23,6 @@
             "quarter": 4,
             "weight": 7,
             "body": "Launch Skywire test network"
-        },
-        {
-            "year": 2017,
-            "quarter": 4,
-            "weight": 6,
-            "body": "Open Skycoin OTC market"
         },
         {
             "year": 2017,
@@ -48,12 +42,6 @@
             "weight": 3,
             "title": "New Wallet",
             "body": "Redesigned Skycoin wallet"
-        },
-        {
-            "year": 2017,
-            "quarter": 4,
-            "weight": 2,
-            "body": "Extend Skycoin divisibility to one decimal place"
         },
         {
             "year": 2017,

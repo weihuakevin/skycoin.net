@@ -2,6 +2,24 @@
     "data": [
         {
             "year": 2017,
+            "quarter": 4,
+            "weight": 3,
+            "body": "Open Skycoin OTC market"
+        },
+        {
+            "year": 2017,
+            "quarter": 4,
+            "weight": 2,
+            "body": "Extended Skycoin divisibility to three decimal places"
+        },
+        {
+            "year": 2017,
+            "quarter": 4,
+            "weight": 1,
+            "body": "Skycoin listed on openledger.io"
+        },
+        {
+            "year": 2017,
             "quarter": 3,
             "weight": 6,
             "title": "skyledger.net",

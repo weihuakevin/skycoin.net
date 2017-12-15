@@ -105,7 +105,7 @@ const MarketsList = () => (
     </Heading>
     <List>
       <Row>
-        <Item>Coming soon</Item>
+        <Item href="https://otc.skycoin.net" target="_blank">Buy Skycoin directly with BTC</Item>
       </Row>
     </List>
   </Wrap>
