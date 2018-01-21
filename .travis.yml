@@ -5,6 +5,10 @@ script:
 - yarn lint
 - yarn test
 - yarn build
+
+before_deploy:
+- if [[ -z "$TRAVIS_TAG" ]]; then cp robots.txt.staging build/robots.txt; else cp robots.txt build/; fi
+
 deploy:
 - provider: s3
   access_key_id: AKIAIMA7VGNP6PRLOIBQ
