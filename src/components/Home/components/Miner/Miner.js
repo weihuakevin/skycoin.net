@@ -39,13 +39,13 @@ const Miner = () => (
     <Container>
       <Flex py={[7, 8]} align="center">
         <Box width={[1 / 3, 1 / 4]} mr={[4, 6]}>
-          <StyledLink href="https://blog.skycoin.net/statement/skywire-miner-hardware-for-the-next-internet/">
+          <StyledLink href="https://www.skycoin.net/blog/statement/skywire-miner-hardware-for-the-next-internet/">
             <Graphic />
           </StyledLink>
         </Box>
 
         <Box width={[2 / 3, 3 / 4]}>
-          <StyledLink href="https://blog.skycoin.net/statement/skywire-miner-hardware-for-the-next-internet/">
+          <StyledLink href="https://www.skycoin.net/blog/statement/skywire-miner-hardware-for-the-next-internet/">
             <Label>
               <FormattedMessage id="home.miner.label" />
             </Label>
