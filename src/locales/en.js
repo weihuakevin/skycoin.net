@@ -71,16 +71,16 @@ export default {
     contact: 'To list Skycoin and put your exchange here email ',
   },
   home: {
-    title: 'Skycoin - The third generation of cryptocurrency',
-    description: 'Skycoin is designed to implement Satoshi\'s original vision and fix the problems with Bitcoin.',
+    title: 'Skycoin - Blockchain Internet',
+    description: 'Skycoin is a new blockchain-based mesh-internet.',
     hero: {
-      heading: 'Skycoin — More than a coin, Skycoin is a 360 degree Privacy Protocol powering:',
+      heading: 'Skycoin is a 360-degree Privacy Protocol powering:',
       list: [
-        'Anonymous decentralized internet and telecom infrastructure, Skywire',
-        'Be your own ISP',
-        'Internet access point that pays you for bandwidth, SkyMiner',
-        'Decentralized consensus network',
-        'Decentralized exchange',
+        'Skywire: Anonymous, decentralized mesh-internet and telecoms',
+        'Skycoin: Free, Instant, Infinite transactions',
+        'Skyminer: Internet access point that pays you for bandwidth',
+        'Obelisk: Decentralized consensus network',
+        'All designed by original Bitcoin and Ethereum developers',
       ],
       buy: 'Buy Skycoin',
       community: 'Community',
@@ -114,11 +114,11 @@ export default {
     aboutSkywire: {
       heading: 'What is Skywire?',
       lead: 'Skywire is the new internet. An incentivized mesh network poised to become the privacy protocol of the future.',
-      paragraph: 'Skywire’s goal is to make corporate internet service providers a thing of the past by giving the internet back to the people with its a revolutionary privacy protocol. Peer-to-peer technology with a grassroots ethos, Skywire’s new networking protocol promotes net neutrality and sharing without blocking, slowdowns or censorship.',
+      paragraph: 'Skywire’s goal is to make corporate internet service providers a thing of the past by giving the internet back to the people with its revolutionary privacy protocol. Peer-to-peer technology with a grassroots ethos, Skywire’s new networking protocol promotes net neutrality and sharing without blocking, slowdowns or censorship.',
       button: 'Read More about Skywire, Powered by Skycoin',
     },
     skyProtocol: {
-      paragraph: 'The Sky Privacy Protocol solves  the problems inherent in PoW- and PoS-based coins to bring you a decentralized and democratic consensus network. Take a look at the technology behind it.',
+      paragraph: 'The Sky Privacy Protocol solves the problems inherent in PoW- and PoS-based coins to bring you a decentralized and democratic consensus network. Take a look at the technology behind it:',
     },
     about: {
       heading: 'What is Skycoin?',

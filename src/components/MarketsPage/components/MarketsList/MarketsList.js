@@ -91,7 +91,7 @@ const MarketsList = () => (
     </List>
     <Title>
       <Heading mb={0} heavy as="h2" fontSize={[5, 6]} color="black">
-        Cryptopia
+        Cryptopia* (expereincing issues due to heavy volume)
       </Heading>
       <Logo src={LogoCryptopia} alt="Cryptopia" />
     </Title>
