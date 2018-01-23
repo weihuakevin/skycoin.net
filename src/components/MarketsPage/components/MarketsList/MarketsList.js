@@ -47,6 +47,16 @@ const Item = styled(Link)`
   }
 `;
 
+const ExhangeRate = styled.span`
+  font-family: ${FONT_FAMILIES.sans};
+  font-size: ${rem(FONT_SIZES[3])};
+  font-weight: 700;
+`;
+
+const Note = styled.span`
+  font-size: 0.8em;
+`;
+
 const Contact = styled.div`
   font-family: ${FONT_FAMILIES.sans};
   font-size: ${rem(FONT_SIZES[3])};
@@ -77,13 +87,13 @@ const MarketsList = () => (
     </List>
     <Title>
       <Heading mb={0} heavy as="h2" fontSize={[5, 6]} color="black">
-        C2CX
+        C2CX <Note>(<a href="https://www.c2cx.com/in/trade_usdt_sky" target="_blank" rel="noopener noreferrer">Only supports USDT ERC20 token.</a>)</Note>
       </Heading>
       <Logo src={Logoc2cx} alt="C2CX LOGO" />
     </Title>
     <List>
       <Row>
-        <Item href="https://www.c2cx.com/in/trade_sky" target="_blank">SKY/CNY</Item>
+        <Item href="https://www.c2cx.com/in/trade_sky" target="_blank">SKY/DRG</Item> <ExhangeRate>(100 CNY = 1 DRG)</ExhangeRate>
       </Row>
       <Row>
         <Item href="https://www.c2cx.com/in/trade_btc_sky" target="_blank">SKY/BTC</Item>
@@ -91,7 +101,7 @@ const MarketsList = () => (
     </List>
     <Title>
       <Heading mb={0} heavy as="h2" fontSize={[5, 6]} color="black">
-        Cryptopia* (expereincing issues due to heavy volume)
+        Cryptopia <Note>(experiencing issues due to heavy volume)</Note>
       </Heading>
       <Logo src={LogoCryptopia} alt="Cryptopia" />
     </Title>
